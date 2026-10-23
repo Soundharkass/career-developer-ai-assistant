@@ -58,7 +58,7 @@ Google AI Studio offers free-tier access to selected Gemini models within their 
    python app.py
    ```
 
-6. Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
+6. Open [" your locak host " link ) in your browser.
 
 To stop the server, return to PowerShell and press **Ctrl+C**.
 
